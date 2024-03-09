@@ -17,8 +17,11 @@ class Human:
             print(f'Возраст: {self.default_age} ')
     def __make_deal(self, house):
 
-    def earn_money(self, ostatok):
-        self.ostatok = self.__money*2
+    def earn_money(self):
+        self.zp = self.__money*2
     def buy_house(self):
+        if self.ostatok >= 0:
+            self.
+
 
 
