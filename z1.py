@@ -1,1 +1,3 @@
-print('meow')
+class C:
+  
+    pass
